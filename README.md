@@ -1,26 +1,5 @@
 # mediasoup v3
 
-[![][mediasoup-banner]][mediasoup-website]
-
-[![][npm-shield-mediasoup]][npm-mediasoup]
-[![][crates-shield-mediasoup]][crates-mediasoup]
-[![][github-actions-shield-mediasoup-node]][github-actions-mediasoup-node]
-[![][github-actions-shield-mediasoup-worker]][github-actions-mediasoup-worker]
-[![][github-actions-shield-mediasoup-rust]][github-actions-mediasoup-rust]
-[![][codacy-grade-shield-mediasoup]][codacy-grade-mediasoup]
-[![][opencollective-shield-mediasoup]][opencollective-mediasoup]
-
-
-## Website and Documentation
-
-* [mediasoup.org][mediasoup-website]
-
-
-## Support Forum
-
-* [mediasoup.discourse.group][mediasoup-discourse]
-
-
 ## Design Goals
 
 mediasoup and its client side libraries are designed to accomplish with the following goals:
