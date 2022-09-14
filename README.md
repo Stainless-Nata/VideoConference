@@ -63,19 +63,6 @@ mediasoup and its client side libraries provide a super low level API. They are 
 * Extremely powerful (media worker thread/subprocess coded in C++ on top of [libuv](https://libuv.org)).
 
 
-## Demo Online
-
-[![][mediasoup-demo-screenshot]][mediasoup-demo]
-
-Try it at [v3demo.mediasoup.org](https://v3demo.mediasoup.org) ([source code](https://github.com/versatica/mediasoup-demo)).
-
-
-## Authors
-
-* Iñaki Baz Castillo [[website](https://inakibaz.me)|[github](https://github.com/ibc/)]
-* José Luis Millán [[github](https://github.com/jmillan/)]
-
-
 ## Sponsor
 
 You can support mediasoup by [sponsoring][sponsor] it. Thanks!
@@ -84,28 +71,3 @@ You can support mediasoup by [sponsoring][sponsor] it. Thanks!
 ## License
 
 [ISC](./LICENSE)
-
-
-
-
-[mediasoup-banner]: /art/mediasoup-banner.png
-[mediasoup-website]: https://mediasoup.org
-[mediasoup-discourse]: https://mediasoup.discourse.group
-[npm-shield-mediasoup]: https://img.shields.io/npm/v/mediasoup.svg
-[npm-mediasoup]: https://npmjs.org/package/mediasoup
-[crates-shield-mediasoup]: https://img.shields.io/crates/v/mediasoup.svg
-[crates-mediasoup]: https://crates.io/crates/mediasoup
-[github-actions-shield-mediasoup-node]: https://github.com/versatica/mediasoup/actions/workflows/mediasoup-node.yaml/badge.svg
-[github-actions-mediasoup-node]: https://github.com/versatica/mediasoup/actions/workflows/mediasoup-node.yaml
-[github-actions-shield-mediasoup-worker]: https://github.com/versatica/mediasoup/actions/workflows/mediasoup-worker.yaml/badge.svg
-[github-actions-mediasoup-worker]: https://github.com/versatica/mediasoup/actions/workflows/mediasoup-worker.yaml
-[github-actions-shield-mediasoup-rust]: https://github.com/versatica/mediasoup/actions/workflows/mediasoup-rust.yaml/badge.svg
-[github-actions-mediasoup-rust]: https://github.com/versatica/mediasoup/actions/workflows/mediasoup-rust.yaml
-[codacy-grade-shield-mediasoup]: https://img.shields.io/codacy/grade/3c8b9efc83674b6189707ab4188cfb2b.svg
-[codacy-grade-mediasoup]: https://www.codacy.com/app/versatica/mediasoup
-[opencollective-shield-mediasoup]: https://img.shields.io/opencollective/all/mediasoup.svg
-[opencollective-mediasoup]: https://opencollective.com/mediasoup/
-[sponsor]: https://mediasoup.org/sponsor/
-[mediasoup-architecture]: /art/mediasoup-v3-architecture-01.svg
-[mediasoup-demo-screenshot]: /art/mediasoup-v3.png
-[mediasoup-demo]: https://v3demo.mediasoup.org
